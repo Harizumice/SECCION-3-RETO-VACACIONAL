@@ -1,2 +1,2 @@
-# SECCION-3-RETO-VACACIONAL
-Esta es la sección 3 del padlet vacacional
+# WORDPRESS-DIA-1
+This is my site web dediqued to class of Wordpress, day 17/05/2023
